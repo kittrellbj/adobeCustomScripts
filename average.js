@@ -1,7 +1,7 @@
 // Average of all values in aFieldNames where aFieldName value is a number
 
 // Variable declarations
-var aFieldNames = new Array("Dropdown2", "Dropdown3", "Dropdown4", "Dropdown5", "Dropdown6", "Dropdown7", "Dropdown8", "Dropdown9", "Dropdown10", "Dropdown11", "Dropdown12", "Dropdown13", "Dropdown121"); // Add all field names to this array
+var aFieldNames = new Array("Dropdown1", "Dropdown2", "Dropdown3"); // etc. Add all field names to this array in quotes, separated by commas
 var nCount = 0;
 var nSum = 0;
 var fAverage = 0.0; // default value for result if no average computed
