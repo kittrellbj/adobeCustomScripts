@@ -1,6 +1,6 @@
 // filenameFromField.js
 // Author: Brian Kittrell
-// Home:   
+// Home:   https://github.com/kittrellbj/adobeCustomScripts
 // Description: This javascript file goes in your Adobe Javascript directory, such as C:\Program Files\Adobe\Acrobat\Javascript.
 
 var saveFromField = app.trustedFunction(
