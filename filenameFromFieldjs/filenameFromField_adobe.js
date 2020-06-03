@@ -1,6 +1,6 @@
 // filenameFromField_adobe.js
 // Author: Brian Kittrell
-// Home:   
+// Home:   https://github.com/kittrellbj/adobeCustomScripts
 // Description: This code snippet goes inside Adobe PDF attached to the save button in the form.
 //              To use, create a button on the PDF form (or use this to create other fucntionality) so that when
 //              this script is called, it is executed from the form field you are using to call the method.
